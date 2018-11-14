@@ -14,7 +14,7 @@ $ git checkout a76aa3121679a6d67e3456c0798a080c78b920d3 -b midterm
     * 設定 ver 變數，內容為『 my kernel version is 3.xx 』，其中 3.xx 為 uname -r 輸出的資訊，並顯示出ver變數的值。(10%)
 
     * 請顯示目前PATH環境變數的值為何，並說明PATH的功用為何? (10%)
-
+    
 2. (20%)
 
     * 有一個檔案的屬性權限為 `drwxrwsr-x  3 root mail   4096  2月 16  2017 mail/`，請說明此檔案的特性。(10%)
